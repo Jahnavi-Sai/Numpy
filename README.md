@@ -1,4 +1,6 @@
-# 📘 NumPy Introduction – `1). Numpy.ipynb`
+# 📘 NumPy Introduction 
+
+# `1). Numpy.ipynb`
 
 This notebook introduces the core concepts of **NumPy**, Python’s fundamental package for numerical computing. It is ideal for beginners who want to learn how to handle arrays and perform basic numerical operations efficiently.
 
@@ -19,7 +21,9 @@ This notebook introduces the core concepts of **NumPy**, Python’s fundamental 
 
 
 
-# 📗 NumPy Functionalities – `2).Numpy functionalities.ipynb`
+# 📗 NumPy Functionalities 
+
+# `2).Numpy functionalities.ipynb`
 
 This notebook explores a variety of **NumPy’s advanced functionalities**, expanding on the foundational concepts and demonstrating powerful tools for numerical computation and data manipulation.
 
